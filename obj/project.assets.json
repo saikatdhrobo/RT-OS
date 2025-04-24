@@ -1,0 +1,122 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Cosmos.Build >= 0.0.0-*",
+      "Cosmos.Debug.Kernel >= 0.0.0-*",
+      "Cosmos.System2 >= 0.0.0-*"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\User\\Downloads\\RTOS mid\\Saikat\\Saikat.csproj",
+      "projectName": "Saikat",
+      "projectPath": "C:\\Users\\User\\Downloads\\RTOS mid\\Saikat\\Saikat.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Downloads\\RTOS mid\\Saikat\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Cosmos.Build": {
+            "target": "Package",
+            "version": "[0.0.0-*, )",
+            "noWarn": [
+              "NU1604"
+            ]
+          },
+          "Cosmos.Debug.Kernel": {
+            "target": "Package",
+            "version": "[0.0.0-*, )",
+            "noWarn": [
+              "NU1604"
+            ]
+          },
+          "Cosmos.System2": {
+            "target": "Package",
+            "version": "[0.0.0-*, )",
+            "noWarn": [
+              "NU1604"
+            ]
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Cosmos.Build. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "Cosmos.Build",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Cosmos.Debug.Kernel. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "Cosmos.Debug.Kernel",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Cosmos.System2. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "Cosmos.System2",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

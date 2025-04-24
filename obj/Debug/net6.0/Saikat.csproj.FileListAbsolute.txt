@@ -1,0 +1,12 @@
+C:\Users\khana\source\repos\Saikat\bin\Debug\net6.0\Saikat.deps.json
+C:\Users\khana\source\repos\Saikat\bin\Debug\net6.0\Saikat.dll
+C:\Users\khana\source\repos\Saikat\bin\Debug\net6.0\Saikat.pdb
+C:\Users\khana\source\repos\Saikat\obj\Debug\net6.0\Saikat.csproj.AssemblyReference.cache
+C:\Users\khana\source\repos\Saikat\obj\Debug\net6.0\Saikat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khana\source\repos\Saikat\obj\Debug\net6.0\Saikat.AssemblyInfoInputs.cache
+C:\Users\khana\source\repos\Saikat\obj\Debug\net6.0\Saikat.AssemblyInfo.cs
+C:\Users\khana\source\repos\Saikat\obj\Debug\net6.0\Saikat.csproj.CoreCompileInputs.cache
+C:\Users\khana\source\repos\Saikat\obj\Debug\net6.0\Saikat.dll
+C:\Users\khana\source\repos\Saikat\obj\Debug\net6.0\refint\Saikat.dll
+C:\Users\khana\source\repos\Saikat\obj\Debug\net6.0\Saikat.pdb
+C:\Users\khana\source\repos\Saikat\obj\Debug\net6.0\ref\Saikat.dll

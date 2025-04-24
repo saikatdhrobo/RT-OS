@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "mgeXy1fCLDlLfoBC/6CwFR4W1hSteL6qFTjk5lAFtWikrOFtTKwxKKKjhNiZxq1oGeS7CXXaW2ndY4AhCWTwGA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\User\\Downloads\\RTOS mid\\Saikat\\Saikat.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Cosmos.Build. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "Cosmos.Build",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Cosmos.Debug.Kernel. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "Cosmos.Debug.Kernel",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Cosmos.System2. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "Cosmos.System2",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
